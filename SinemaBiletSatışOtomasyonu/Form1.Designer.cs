@@ -47,19 +47,19 @@
             this.btnBack.Enabled = false;
             this.btnBack.Location = new System.Drawing.Point(37, 30);
             this.btnBack.Name = "btnBack";
-            this.btnBack.Size = new System.Drawing.Size(75, 23);
+            this.btnBack.Size = new System.Drawing.Size(147, 23);
             this.btnBack.TabIndex = 1;
-            this.btnBack.Text = "<-GERİ";
+            this.btnBack.Text = "<-ÖNCEKİ GÜN";
             this.btnBack.UseVisualStyleBackColor = true;
             this.btnBack.Click += new System.EventHandler(this.btnBack_Click);
             // 
             // btnNext
             // 
-            this.btnNext.Location = new System.Drawing.Point(1097, 30);
+            this.btnNext.Location = new System.Drawing.Point(1020, 30);
             this.btnNext.Name = "btnNext";
-            this.btnNext.Size = new System.Drawing.Size(75, 23);
+            this.btnNext.Size = new System.Drawing.Size(152, 23);
             this.btnNext.TabIndex = 1;
-            this.btnNext.Text = "İLERİ->";
+            this.btnNext.Text = "SONRAKİ GÜN->";
             this.btnNext.UseVisualStyleBackColor = true;
             this.btnNext.Click += new System.EventHandler(this.btnNext_Click);
             // 
