@@ -8,6 +8,6 @@ namespace SinemaBiletSatışOtomasyonu.Enums
 {
     public enum Category
     {
-        bilim_kurgu,mecare,fantastik,gerilim,komedi
+        bilim_kurgu,macera,fantastik,gerilim,komedi
     }
 }
